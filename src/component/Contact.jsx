@@ -11,7 +11,7 @@ const Contact = () => {
           <p className='py-6'> Submit the form below to get in touch with me</p>
         </div>
 
-        <div className='flex justify-center items-center'>
+        <div className='flex justify-left items-center'>
           <form action='https://getform.io/f/7a6cc7bf-a1ff-4010-880f-39f31a67c93b' 
                 className='flex flex-col w-full md:w-1/2'
                 method='POST'>
