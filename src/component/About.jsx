@@ -10,7 +10,7 @@ const About = () => {
                     About
                 </p>
 
-                <p className='text-1xl mt-20'>
+                <p className='text-1xl mt-10'>
                     I pursued my career in computer science from 2018 to 2022, developing a strong foundation for logical thinking. My passion for 
                     coding  led me to venture into web development in 2021. My journey began with a fascination for HTML, CSS and Javascript and its. 
                     The joy of working with function-based components in Reactjs, followed by the satisfying "npm start" command in the terminal, 
