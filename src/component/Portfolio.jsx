@@ -3,6 +3,8 @@ import Recipes from "../assets/food-recipe.png"
 import Hangman from "../assets/hangman-game.png"
 import Todo from "../assets/to-do-list.png"
 import Port from "../assets/portfolio.png"
+import Port1 from "../assets/portfolio2.png"
+import movie from "../assets/movie.png"
 
 const Portfolio = () => {
 
@@ -35,6 +37,20 @@ const Portfolio = () => {
             chref: "https://github.com/Topilogy/topilogy-portfolio",
             dhref: "https://topilogy-portfolio-beta-two.vercel.app/",
         },
+        {
+            id:5,
+            src: Port1,
+            txt: "Portfolio",
+            chref: "https://github.com/Topilogy/portfolio",
+            dhref: "https://topilogy-portfolio.netlify.app/",
+        },
+        {
+            id:6,
+            src: movie,
+            txt: "Portfolio",
+            chref: "https://github.com/Topilogy/movie",
+            dhref: "https://crash-project-movie-site.vercel.app/",
+        },
     ]
 
   return (
@@ -63,8 +79,7 @@ const Portfolio = () => {
                             <div>
                                 <button className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 cursor-pointer'>
                                 <a 
-                                    href={dhref} 
-                                     
+                                    href={dhref}  
                                     target="_blank" 
                                     rel="noreferrer" 
                                 >
@@ -77,7 +92,6 @@ const Portfolio = () => {
                                 <button className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 cursor-pointer'>
                                 <a
                                     href={chref} 
-                                    
                                     target="_blank" 
                                     rel="noreferrer"
                                 >
