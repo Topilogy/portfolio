@@ -19,7 +19,7 @@ const About = () => {
                 </p> 
 
                 <br /> 
-                <p className='text-xl text-justify'>
+                <p className='text-1xl text-justify'>
                     I am actively seeking an entry-level position as a Frontend Developer, leveraging my expertise in ReactJs. With over a year of valuable insights 
                     gained during my internship training in zuri as a Frontend developer, I bring a deep understanding of workspace culture. My commitment to excellence 
                     is reflected in the 5+ projects I've undertaken, ranging from small to large scale. These projects, showcased on my GitHub repositories, demonstrate 
