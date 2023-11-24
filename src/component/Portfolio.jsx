@@ -47,7 +47,7 @@ const Portfolio = () => {
         {
             id:6,
             src: movie,
-            txt: "Portfolio",
+            txt: "Crashed Project",
             chref: "https://github.com/Topilogy/movie",
             dhref: "https://crash-project-movie-site.vercel.app/",
         },
