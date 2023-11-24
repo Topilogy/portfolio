@@ -16,7 +16,7 @@ const Home = () => {
                     I'm a Frontend Developer
                 </h2>
                 <p className='text-gray-500 py-4 max-w-md'>
-                    I have 4 years experience builging and designing software.
+                    I have 4 years experience building and designing software.
                     I love to work on web application using technologies. 
                     like React, Tailwind and Next JS.
                     Currently, I am seeking an entry-level job as a Frontend Developer.
