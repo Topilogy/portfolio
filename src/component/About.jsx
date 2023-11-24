@@ -10,7 +10,7 @@ const About = () => {
                     About
                 </p>
 
-                <p className='text-1xl mt-10 text-justify'>
+                <p className='text-1xl mt-10 text-ellipsis '>
                     I pursued my career in computer science from 2018 to 2022, developing a strong foundation for logical thinking. My passion for 
                     coding  led me to venture into web development in 2021. My journey began with a fascination for HTML, CSS and Javascript and its. 
                     The joy of working with function-based components in Reactjs, followed by the satisfying "npm start" command in the terminal, 
@@ -19,7 +19,7 @@ const About = () => {
                 </p> 
 
                 <br /> 
-                <p className='text-1xl text-justify'>
+                <p className='text-1xl text-ellipis'>
                     I am actively seeking an entry-level position as a Frontend Developer, leveraging my expertise in ReactJs. With over a year of valuable insights 
                     gained during my internship training in zuri as a Frontend developer, I bring a deep understanding of workspace culture. My commitment to excellence 
                     is reflected in the 5+ projects I've undertaken, ranging from small to large scale. These projects, showcased on my GitHub repositories, demonstrate 
