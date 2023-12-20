@@ -49,9 +49,9 @@ const Portfolio = () => {
         {
             id:6,
             src: movie,
-            txt: "Crashed Project",
-            chref: "https://github.com/Topilogy/movie",
-            dhref: "https://crash-project-movie-site.vercel.app/",
+            txt: "1st Project",
+            chref: "https://github.com/Topilogy/01-starting-project-using-react",
+            dhref: "https://01-starting-project.netlify.app/",
         },
     ];
 
