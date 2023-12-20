@@ -4,7 +4,7 @@ import Hangman from "../assets/hangman-game.png"
 import Todo from "../assets/to-do-list.png"
 import Port from "../assets/portfolio.png"
 import Port1 from "../assets/portfolio2.png"
-import movie from "../assets/movie.png"
+import react from "../assets/react.png"
 
 const Portfolio = () => {
     const [darkModeState, setDarkModeState] = useState({});
@@ -48,7 +48,7 @@ const Portfolio = () => {
         },
         {
             id:6,
-            src: movie,
+            src: react,
             txt: "1st Project",
             chref: "https://github.com/Topilogy/01-starting-project-using-react",
             dhref: "https://01-starting-project.netlify.app/",
